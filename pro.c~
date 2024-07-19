@@ -1,0 +1,17 @@
+/*
+ * pro.c
+ *
+ * Created: 12/11/2021 6:07:38 AM
+ * Author: NOTEBOOK MARKAZI
+ */
+
+#include <io.h>
+
+void main(void)
+{
+while (1)
+    {
+    // Please write your application code here
+
+    }
+}
